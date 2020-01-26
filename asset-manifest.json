@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/neet-prep/static/css/main.775440b6.chunk.css",
+    "main.js": "/neet-prep/static/js/main.d115676a.chunk.js",
+    "main.js.map": "/neet-prep/static/js/main.d115676a.chunk.js.map",
+    "runtime-main.js": "/neet-prep/static/js/runtime-main.8655a1a3.js",
+    "runtime-main.js.map": "/neet-prep/static/js/runtime-main.8655a1a3.js.map",
+    "static/js/2.8f20cd2f.chunk.js": "/neet-prep/static/js/2.8f20cd2f.chunk.js",
+    "static/js/2.8f20cd2f.chunk.js.map": "/neet-prep/static/js/2.8f20cd2f.chunk.js.map",
+    "index.html": "/neet-prep/index.html",
+    "precache-manifest.898ee5ecea55684678a9aabbfe669430.js": "/neet-prep/precache-manifest.898ee5ecea55684678a9aabbfe669430.js",
+    "service-worker.js": "/neet-prep/service-worker.js",
+    "static/css/main.775440b6.chunk.css.map": "/neet-prep/static/css/main.775440b6.chunk.css.map",
+    "static/js/2.8f20cd2f.chunk.js.LICENSE": "/neet-prep/static/js/2.8f20cd2f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8655a1a3.js",
+    "static/js/2.8f20cd2f.chunk.js",
+    "static/css/main.775440b6.chunk.css",
+    "static/js/main.d115676a.chunk.js"
+  ]
+}
