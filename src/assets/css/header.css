@@ -1,0 +1,19 @@
+h2{
+    padding: 8px;
+    position: relative;
+    font-weight: normal;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 18px;
+    background-color:#28a745 ;
+
+}
+
+.header{
+    width: 100%;
+    top:0
+}
